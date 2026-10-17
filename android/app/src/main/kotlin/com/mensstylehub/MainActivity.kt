@@ -1,4 +1,4 @@
-package com.ark.arwikacustomer
+package com.mensstylehub
 
 import io.flutter.embedding.android.FlutterActivity
 
